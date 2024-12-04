@@ -1,4 +1,4 @@
-# virtua-internship-in-PWC---Power-BI-developer
+# virtual-internship-in-PWC---Power-BI-developer
 
 PwC Switzerland Power BI 
 
